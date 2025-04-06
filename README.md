@@ -9,8 +9,8 @@ I'm Aidan Nguyen, an aspiring bioengineer studying at Gavilan College with plans
 
 - **Home**: Introduction and featured work
 - **About**: My background, education, and interests
-- **Research**: Details about my research experience, including work with Drosophila Melanogaster
-- **Projects**: My independent projects, including algae genetic engineering
+- **Research**: Details about my research experiences.
+- **Projects**: My independent projects.
 - **Blog**: Thoughts and insights on bioengineering, philosphy, and related topics
 - **Contact**: How to get in touch with me
 
